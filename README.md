@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ozan Volkan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-<div class="tenor-gif-embed" data-postid="16569726" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mario-run-pixel-new-smooth-gif-16569726">Mario Run Sticker</a>from <a href="https://tenor.com/search/mario-stickers">Mario Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 - 🔭 I’m currently working on **hyper/hybdrid casual projects.**
 
 - 👨‍💻 All of my projects are available at [bit.ly/gamesyoutube](bit.ly/gamesyoutube)
