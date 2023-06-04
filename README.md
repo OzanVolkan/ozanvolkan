@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **hyper/hybdrid casual projects.**
 
-- 🕹 Not all my projects are public here because of privacy policies of my company
+- 🕹 Not all my project repos are public here because of privacy policies of my company
 
 - 👨‍💻 All of my projects are available at [bit.ly/gamesyoutube](bit.ly/gamesyoutube)
 
