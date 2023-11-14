@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Volkan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on **hyper/hybdrid casual projects.**
+- 🔭 I’m currently working on **VR Game Projects.**
 
 - 🕹 Not all my project repos are public here because of privacy policies of my company
 
