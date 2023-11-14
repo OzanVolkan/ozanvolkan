@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **VR Game Projects.**
 
-- 🕹 Not all my project repos are public here because of privacy policies of my company
-
 - 👨‍💻 All of my projects are available at [bit.ly/gamesyoutube](bit.ly/gamesyoutube)
 
 - 💬 Ask me about **Unity,C#.**
