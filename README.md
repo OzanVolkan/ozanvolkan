@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Volkan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🔭 I’m currently working on **VR Game Projects.**
+- 🔭 I’m currently working on **Unity Game Projects.**
 
 - 👨‍💻 All of my projects are available at [bit.ly/gamesyoutube](bit.ly/gamesyoutube)
 
