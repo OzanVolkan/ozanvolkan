@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Unity Game Projects.**
 
-- 👨‍💻 All of my projects are available at [bit.ly/gamesyoutube](bit.ly/gamesyoutube)
+- 👨‍💻 All of my projects are available at [bit.ly/gamesyoutube](https://bit.ly/gamesyoutube)
 
 - 💬 Ask me about **Unity,C#.**
 
 - 📫 How to reach me **ozan.atci.95@gmail.com**
 
-- 📄 Know about my experiences [linktr.ee/ozanvolkan](linktr.ee/ozanvolkan)
+- 📄 Know about my experiences [linktr.ee/ozanvolkan](https://linktr.ee/ozanvolkan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
